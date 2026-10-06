@@ -1,0 +1,18 @@
+{
+  "name": "3nimbelakang-connectiondb",
+  "version": "1.0.0",
+  "description": "Express.js + PostgreSQL: koneksi database dan GET data biodata mahasiswa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3",
+    "pg": "^8.23.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
